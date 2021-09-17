@@ -42,20 +42,6 @@
     "totalTests": 547701729,
     "testsPerOneMillion": 392229
   },
-  "brazil" : {
-    "country": "Brazil",
-    "cases": 21069017,
-    "todayCases": 0,
-    "deaths": 589277,
-    "todayDeaths": 0,
-    "recovered": 20173064,
-    "active": 306676,
-    "critical": 8318,
-    "casesPerOneMillion": 98277,
-    "deathsPerOneMillion": 2749,
-    "totalTests": 57095219,
-    "testsPerOneMillion": 266322
-  },
   "uk" : {
     "country": "UK",
     "cases": 7371301,
