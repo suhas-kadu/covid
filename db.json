@@ -1,4 +1,4 @@
-[
+{[
   {
     "country": "World",
     "cases": 228036158,
@@ -3135,4 +3135,4 @@
     "totalTests": 160000000,
     "testsPerOneMillion": 111163
   }
-]
+]}
