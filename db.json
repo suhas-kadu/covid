@@ -1,16 +1,11 @@
-
-  "world":{
-    "country": "World",
-    "cases": 228036158,
-    "todayCases": 230743,
-    "deaths": 4687330,
-    "todayDeaths": 3825,
-    "recovered": 204694396,
-    "active": 18654432,
-    "critical": 100765,
-    "casesPerOneMillion": 29255,
-    "deathsPerOneMillion": 601,
-    "totalTests": 0,
-    "testsPerOneMillion": 0
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-
+}
