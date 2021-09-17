@@ -1,5 +1,5 @@
-{
-  "wolrd":{
+
+  "world":{
     "country": "World",
     "cases": 228036158,
     "todayCases": 230743,
@@ -13,4 +13,4 @@
     "totalTests": 0,
     "testsPerOneMillion": 0
   }
-}
+
